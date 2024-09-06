@@ -1,0 +1,73 @@
+
+HandyNotesDB = {
+["profileKeys"] = {
+["Unhaltedk - Twisting Nether"] = "Unhaltedk - Twisting Nether",
+["Unhaltedormu - Twisting Nether"] = "Unhaltedormu - Twisting Nether",
+["Unusual - Twisting Nether"] = "Unusual - Twisting Nether",
+["Unhalted - Twisting Nether"] = "Unhalted - Twisting Nether",
+["Uncharged - Twisting Nether"] = "Uncharged - Twisting Nether",
+["Unsanctify - Twisting Nether"] = "Unsanctify - Twisting Nether",
+["Unhaltedx - Twisting Nether"] = "Unhaltedx - Twisting Nether",
+["Uncool - Twisting Nether"] = "Uncool - Twisting Nether",
+["Uninterested - Twisting Nether"] = "Uninterested - Twisting Nether",
+["Unsalted - Twisting Nether"] = "Unsalted - Twisting Nether",
+},
+["profiles"] = {
+["Unhaltedk - Twisting Nether"] = {
+},
+["Unhaltedormu - Twisting Nether"] = {
+},
+["Unusual - Twisting Nether"] = {
+},
+["Unhalted - Twisting Nether"] = {
+},
+["Uncharged - Twisting Nether"] = {
+},
+["Unsanctify - Twisting Nether"] = {
+},
+["Unhaltedx - Twisting Nether"] = {
+},
+["Uncool - Twisting Nether"] = {
+},
+["Uninterested - Twisting Nether"] = {
+},
+["Unsalted - Twisting Nether"] = {
+},
+},
+}
+HandyNotes_HandyNotesDB = {
+["profileKeys"] = {
+["Unhaltedk - Twisting Nether"] = "Unhaltedk - Twisting Nether",
+["Unhaltedormu - Twisting Nether"] = "Unhaltedormu - Twisting Nether",
+["Unusual - Twisting Nether"] = "Unusual - Twisting Nether",
+["Unhalted - Twisting Nether"] = "Unhalted - Twisting Nether",
+["Uncharged - Twisting Nether"] = "Uncharged - Twisting Nether",
+["Unsanctify - Twisting Nether"] = "Unsanctify - Twisting Nether",
+["Unhaltedx - Twisting Nether"] = "Unhaltedx - Twisting Nether",
+["Uncool - Twisting Nether"] = "Uncool - Twisting Nether",
+["Uninterested - Twisting Nether"] = "Uninterested - Twisting Nether",
+["Unsalted - Twisting Nether"] = "Unsalted - Twisting Nether",
+},
+["profiles"] = {
+["Unhaltedk - Twisting Nether"] = {
+},
+["Unhaltedormu - Twisting Nether"] = {
+},
+["Unusual - Twisting Nether"] = {
+},
+["Unhalted - Twisting Nether"] = {
+},
+["Uncharged - Twisting Nether"] = {
+},
+["Unsanctify - Twisting Nether"] = {
+},
+["Unhaltedx - Twisting Nether"] = {
+},
+["Uncool - Twisting Nether"] = {
+},
+["Uninterested - Twisting Nether"] = {
+},
+["Unsalted - Twisting Nether"] = {
+},
+},
+}

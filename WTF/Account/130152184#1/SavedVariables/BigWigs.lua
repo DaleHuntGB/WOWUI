@@ -1,0 +1,420 @@
+
+BigWigs3DB = {
+["namespaces"] = {
+["BigWigs_Plugins_Victory"] = {
+["profiles"] = {
+["Default"] = {
+["bigwigsVictory"] = false,
+},
+},
+},
+["BigWigs_Plugins_BossBlock"] = {
+},
+["BigWigs_Bosses_The Stonevault Trash"] = {
+["profiles"] = {
+["Default"] = {
+[449455] = 966903,
+[428879] = 966903,
+[428703] = 966903,
+[429427] = 966903,
+[445207] = 966903,
+[449130] = 966903,
+[429109] = 966903,
+[426308] = 975095,
+[447141] = 966903,
+[426345] = 966903,
+[448640] = 966903,
+[449154] = 968951,
+[429545] = 966903,
+[425027] = 966903,
+[426771] = 968951,
+[459210] = 967927,
+},
+},
+},
+["BigWigs_Plugins_Sounds"] = {
+},
+["BigWigs_Bosses_Mists of Tirna Scithe Trash"] = {
+["profiles"] = {
+["Default"] = {
+[326046] = 975095,
+[324923] = 966903,
+[324776] = 966903,
+[322569] = 967927,
+[463248] = 967159,
+[463256] = 966903,
+[322486] = 966903,
+[340544] = 966903,
+[325021] = 967159,
+[326021] = 966903,
+[322557] = 975095,
+[463217] = 970999,
+[322938] = 966903,
+[325224] = 966903,
+[324914] = 975095,
+[325418] = 967159,
+[321968] = 966903,
+},
+},
+},
+["BigWigs_Plugins_AutoReply"] = {
+},
+["LibDualSpec-1.0"] = {
+},
+["BigWigs_Bosses_Siege of Boralus Trash"] = {
+["profiles"] = {
+["Default"] = {
+[256957] = 966903,
+[257169] = 966903,
+[272711] = 966903,
+[268260] = 966903,
+[256627] = 966903,
+[256640] = 966903,
+[454437] = 966903,
+[257170] = 966903,
+[272421] = 966903,
+[257288] = 966903,
+[275826] = 966903,
+[272546] = 966903,
+[272571] = 966903,
+[275835] = 967927,
+},
+},
+},
+["BigWigs_Plugins_Raid Icons"] = {
+["profiles"] = {
+["Default"] = {
+["disabled"] = true,
+},
+},
+},
+["BigWigs_Plugins_Countdown"] = {
+["profiles"] = {
+["Default"] = {
+["outline"] = "OUTLINE",
+["fontName"] = "Friz Quadrata TT",
+["fontColor"] = {
+["g"] = 1,
+["b"] = 1,
+},
+["position"] = {
+nil,
+nil,
+nil,
+-625,
+},
+},
+},
+},
+["BigWigs_Plugins_AltPower"] = {
+["profiles"] = {
+["Default"] = {
+["disabled"] = true,
+},
+},
+},
+["BigWigs_Bosses_The Dawnbreaker Trash"] = {
+["profiles"] = {
+["Default"] = {
+[432565] = 966903,
+[431309] = 975095,
+[451098] = 966903,
+[431494] = 966903,
+[432520] = 966903,
+[431304] = 966903,
+[432448] = 966903,
+[451097] = 966903,
+[450756] = 966903,
+[431364] = 966903,
+},
+},
+},
+["BigWigs_Plugins_Colors"] = {
+["profiles"] = {
+["Default"] = {
+["blue"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+0.250980406999588,
+0.501960813999176,
+nil,
+1,
+},
+},
+},
+["barTextShadow"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+1,
+1,
+1,
+0,
+},
+},
+},
+["barColor"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+0.501960813999176,
+0.501960813999176,
+1,
+},
+},
+},
+["purple"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+0.501960813999176,
+0.250980406999588,
+1,
+1,
+},
+},
+},
+["cyan"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+0.250980406999588,
+nil,
+nil,
+1,
+},
+},
+},
+["barEmphasized"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+nil,
+1,
+1,
+},
+},
+},
+["green"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+0.250980406999588,
+nil,
+0.250980406999588,
+1,
+},
+},
+},
+["barBackground"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+0.1333333402872086,
+0.1333333402872086,
+0.1333333402872086,
+1,
+},
+},
+},
+["yellow"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+nil,
+nil,
+0.250980406999588,
+1,
+},
+},
+},
+["orange"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+nil,
+0.501960813999176,
+0.250980406999588,
+1,
+},
+},
+},
+["red"] = {
+["BigWigs_Plugins_Colors"] = {
+["default"] = {
+nil,
+0.250980406999588,
+0.250980406999588,
+1,
+},
+},
+},
+},
+},
+},
+["BigWigs_Plugins_Wipe"] = {
+},
+["BigWigs_Plugins_InfoBox"] = {
+},
+["BigWigs_Plugins_Bars"] = {
+["profiles"] = {
+["Default"] = {
+["outline"] = "OUTLINE",
+["fontSize"] = 12,
+["visibleBarLimit"] = 5,
+["expHeight"] = 24,
+["emphasizeGrowup"] = true,
+["spacing"] = 3,
+["texture"] = "Blizzard Raid Bar",
+["barStyle"] = "ElvUI",
+["fontSizeEmph"] = 12,
+["fontName"] = "Friz Quadrata TT",
+["expPosition"] = {
+"BOTTOMRIGHT",
+"TOPRIGHT",
+-1,
+2,
+"ElvUF_Target",
+},
+["normalWidth"] = 198,
+["visibleBarLimitEmph"] = 5,
+["normalHeight"] = 24,
+["emphasizeTime"] = 6,
+["expWidth"] = 284,
+["emphasizeMultiplier"] = 1,
+["normalPosition"] = {
+"TOPRIGHT",
+"BOTTOMRIGHT",
+0,
+-3,
+"Minimap",
+},
+},
+},
+},
+["BigWigs_Bosses_City of Threads Trash"] = {
+["profiles"] = {
+["Default"] = {
+[443500] = 966903,
+[443437] = 966903,
+[443430] = 966903,
+[447271] = 966903,
+[445813] = 966903,
+[446717] = 966903,
+[451543] = 966903,
+[452162] = 966903,
+[434137] = 966903,
+[446086] = 966903,
+},
+},
+},
+["BigWigs_Plugins_Proximity"] = {
+},
+["BigWigs_Plugins_Statistics"] = {
+["profiles"] = {
+["Default"] = {
+["disabled"] = true,
+},
+},
+},
+["BigWigs_Bosses_Grim Batol Trash"] = {
+["profiles"] = {
+["Default"] = {
+[451391] = 966903,
+[451965] = 966903,
+[451939] = 966903,
+[451613] = 966903,
+[451971] = 970999,
+[456696] = 966903,
+[451871] = 966903,
+[451224] = 975095,
+[462216] = 966903,
+[456713] = 966903,
+[456711] = 966903,
+[76711] = 966903,
+},
+},
+},
+["BigWigs_Bosses_The Necrotic Wake Trash"] = {
+["profiles"] = {
+["Default"] = {
+[327130] = 966903,
+[343470] = 966903,
+[324293] = 966903,
+[323347] = 966903,
+[323471] = 966903,
+[327240] = 966903,
+[328667] = 966903,
+[334748] = 966903,
+[338353] = 966903,
+[322756] = 966903,
+[338606] = 966903,
+[321780] = 966903,
+[335143] = 966903,
+[338357] = 966903,
+[327396] = 966903,
+[338456] = 970999,
+},
+},
+},
+["BigWigs_Plugins_Messages"] = {
+["profiles"] = {
+["Default"] = {
+["outline"] = "OUTLINE",
+["fontSize"] = 24,
+["emphFontName"] = "Friz Quadrata TT",
+["emphFontSize"] = 36,
+["displaytime"] = 3,
+["useicons"] = false,
+["emphPosition"] = {
+nil,
+nil,
+nil,
+275,
+},
+["fadetime"] = 1,
+["emphOutline"] = "OUTLINE",
+["fontName"] = "Friz Quadrata TT",
+["emphUppercase"] = false,
+["normalPosition"] = {
+nil,
+nil,
+nil,
+-275,
+},
+},
+},
+},
+["BigWigs_Bosses_Ara-Kara, City of Echoes Trash"] = {
+["profiles"] = {
+["Default"] = {
+[434793] = 966903,
+[438877] = 966903,
+[453161] = 966903,
+[433845] = 966903,
+[434824] = 966903,
+[434802] = 966903,
+[438826] = 966903,
+[434252] = 966903,
+[448248] = 966903,
+[433841] = 966903,
+},
+},
+},
+["BigWigs_Plugins_Pull"] = {
+},
+["BigWigs_Plugins_Nameplates"] = {
+["profiles"] = {
+["Default"] = {
+["updated"] = true,
+},
+},
+},
+},
+["profileKeys"] = {
+["Unsanctify - Twisting Nether"] = "Default",
+["Unhalted - Twisting Nether"] = "Default",
+["Unusual - Twisting Nether"] = "Default",
+["Uncharged - Twisting Nether"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+},
+},
+}
+BigWigsIconDB = {
+["hide"] = true,
+}
+BigWigsStatsDB = {
+}

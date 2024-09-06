@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding category='BINDING_HEADER_UHUI' name='Hide Action Bars (OOC)'>
+		local b,E={1,2,3,4}, unpack(ElvUI) for _,n in pairs(b) do local s=E.db.actionbar["bar"..n].visibility;E.db.actionbar["bar"..n].visibility=(s=="hide" and "show" or "hide") E.ActionBars:PositionAndSizeBar("bar"..n) end
+	</Binding>
+	<Binding category='BINDING_HEADER_UHUI' name='Quick Leave Party'>
+		C_PartyInfo.LeaveParty()
+	</Binding>
+</Bindings>

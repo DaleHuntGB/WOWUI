@@ -1,0 +1,138 @@
+VER 3 0100000000000010 "AotT" "134400"
+#showtooltip
+/stopcasting
+/stopchanneling
+/cast !Aspect of the Turtle
+END
+VER 3 010000000000000B "BS" "134400"
+#showtooltip
+/stopcasting
+/stopchanneling
+/cast Bursting Shot
+END
+VER 3 0100000000000016 "BS" "134400"
+#showtooltip
+/cast [@cursor] Binding Shot
+END
+VER 3 0100000000000004 "CA" "134400"
+#showtooltip
+/petattack
+/cast Coordinated Assault
+/cast Blood Fury
+END
+VER 3 0100000000000012 "CP" "134400"
+#showtooltip
+/cast [nopet, nodead] Call Pet 1
+/cast [pet, dead] Revive Pet
+/cast [pet, nodead] Dismiss Pet
+END
+VER 3 010000000000000E "CP" "134400"
+#showtooltip
+/cast Command Pet
+END
+VER 3 010000000000001B "CS" "134400"
+#showtooltip
+/stopattack
+/use Concussive Shot
+/stopattack
+END
+VER 3 0100000000000007 "Disengage" "134400"
+#showtooltip
+/stopcasting
+/stopchanneling
+/cast Disengage
+END
+VER 3 0100000000000002 "ES" "134400"
+#showtooltip
+/petattack
+/cast Explosive Shot
+END
+VER 3 0100000000000011 "Exhilaration" "134400"
+#showtooltip
+/stopcasting
+/stopchanneling
+/cast Exhilaration
+END
+VER 3 0100000000000006 "FD" "134400"
+#showtooltip
+/stopcasting
+/stopchanneling
+/cast Feign Death
+END
+VER 3 0100000000000017 "Flare" "134400"
+#showtooltip
+/cast [@cursor] Flare
+END
+VER 3 010000000000001D "FotE" "134400"
+#showtooltip
+/petattack
+/cast Fury of the Eagle
+END
+VER 3 010000000000001A "FS" "134400"
+#showtooltip
+/petattack
+/cast Flanking Strike
+END
+VER 3 0100000000000008 "FT" "134400"
+#showtooltip
+/cast [@cursor] Freezing Trap
+END
+VER 3 010000000000000D "Harpoon" "134400"
+#showtooltip
+/petattack
+/cast Harpoon
+END
+VER 3 0100000000000018 "Intimidation" "134400"
+#showtooltip
+/petattack [@mouseover, exists][@target]
+/cast [@mouseover, exists][@target] Intimidation
+END
+VER 3 010000000000000A "IT" "1044088"
+#showtooltip
+/cast [@cursor] Implosive Trap
+END
+VER 3 0100000000000020 "KC" "134400"
+#showtooltip
+/petattack
+/cast Kill Command
+END
+VER 3 0100000000000021 "KS" "134400"
+#showtooltip
+/petattack
+/cast Kill Shot
+END
+VER 3 0100000000000026 "MD" "134400"
+#showtooltip [known:Interlope] Interlope; #showtooltip [noknown:Interlope] Misdirection
+/click SmartMisdirect LeftButton 1
+/click SmartMisdirect LeftButton 0
+END
+VER 3 0100000000000023 "Muzzle" "134400"
+#showtooltip
+/cast [@focus, exists][@mouseover, exists][@target] Muzzle
+END
+VER 3 010000000000001E "RS" "134400"
+#showtooltip Raptor Strike
+/use Fury of Xuen
+/use Goblin Weather Machine - Prototype 01-B
+/petattack
+/cast Raptor Strike
+END
+VER 3 0100000000000025 "SotF" "134400"
+#showtooltip
+/stopcasting
+/stopchanneling
+/cast Survival of the Fittest
+END
+VER 3 0100000000000024 "TS" "134400"
+#showtooltip
+/cast [@mouseover, harm, exists][@target] Tranquilizing Shot
+END
+VER 3 0100000000000022 "TT" "134400"
+#showtooltip
+/cast [@cursor] Tar Trap
+END
+VER 3 010000000000001F "WFB" "134400"
+#showtooltip
+/petattack
+/cast Wildfire Bomb
+END

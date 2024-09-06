@@ -1,0 +1,22 @@
+lightweight tag e126dc61be1c0e7030f5301899f71f1948e92db3 1.0.20
+Author:	GitHub <noreply@github.com>
+Date:	Fri Aug 11 19:49:26 2023 +0200
+
+commit e126dc61be1c0e7030f5301899f71f1948e92db3
+Author: luttman <luttman99@gmail.com>
+Date:   Fri Aug 11 19:49:26 2023 +0200
+
+    Delete .github  directory
+
+commit a2d0fd5f4e1e48e508a70d6475033d00e22ba590
+Author: luttman <luttman99@gmail.com>
+Date:   Fri Aug 11 19:49:19 2023 +0200
+
+    Rename main.yml to package_and_release.yml
+
+commit 1192c4e77f67a51ea6f3aeb0665c38448f963597
+Author: luttman <luttman99@gmail.com>
+Date:   Fri Aug 11 19:48:55 2023 +0200
+
+    Create main.yml
+

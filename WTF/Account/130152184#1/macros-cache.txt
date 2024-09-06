@@ -1,0 +1,37 @@
+VER 3 0000000000000005 "• Cancel" "132094"
+/stopcasting
+/stopchanneling
+/leavevehicle
+/cancelaura Goblin Glider
+/cancelaura Blessing of Protection
+/cancelaura Aspect of the Turtle
+/cancelaura Levitate
+/cancelaura Slowfall
+END
+VER 3 0000000000000002 "• HP" "134400"
+#showtooltip
+/cast [mod:shift] Healthstone; Algari Healing Potion
+END
+VER 3 0000000000000008 "• Passive Pet" "132311"
+/petpassive
+END
+VER 3 0000000000000001 "• Potion" "134400"
+#showtooltip
+/use Tempered Potion
+END
+VER 3 0000000000000006 "• Private Macro" "3636846"
+/run C_ChatInfo.SendAddonMessage("CAUSESE_SF", UnitGUID("player"), "RAID")
+/run WeakAuras.ScanEvents("LIQUID_PRIVATE_AURA_MACRO", true)
+/run C_ChatInfo.SendAddonMessage("PA_MACRO", UnitGUID("player"), "RAID")
+END
+VER 3 0000000000000007 "• Set Focus" "132096"
+/focus [@mouseover, exists][@target]
+END
+VER 3 0000000000000003 "• Trinket #1" "134400"
+#showtooltip
+/use 13
+END
+VER 3 0000000000000004 "• Trinket #2" "134400"
+#showtooltip
+/use 14
+END
